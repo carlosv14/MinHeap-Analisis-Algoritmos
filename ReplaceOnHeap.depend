@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1487283529 source:c:\users\carlos varela\documents\replaceonheap-master\main.cpp
+	"Test.h"
+	<iostream>
+
+1486674424 c:\users\carlos varela\documents\replaceonheap-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1486674424 source:c:\users\carlos varela\documents\replaceonheap-master\test.cpp
+	"Test.h"
+
