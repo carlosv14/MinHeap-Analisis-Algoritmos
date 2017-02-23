@@ -1,0 +1,1 @@
+El tiempo de ejecucion es n porque se tarda n en encontrar el elemento a reemplazar y luego log de n en colocarlo en una posicion donde deje el arbol como min heap
